@@ -17,16 +17,10 @@ As an avid user of Inshorts, I noticed the absence of a web app version for lapt
 - REST APIs
 
 ## Screenshots
-| Screenshot 1 | Screenshot 2 |
-| ------------ | ------------ |
-| ![Screenshot 1](path/to/screenshot1.png) | ![Screenshot 2](path/to/screenshot2.png) |
+|          Screenshot         |
+| --------------------------- |
+| ![Screenshot 1](https://shubhsonidev.github.io/portfolio/assets/img/portfolio/tech.png) |
 
 ## Live Demo
-Check out the live demo of TechShorts [here](https://your-live-demo-link.com).
+Check out the live demo of TechShorts [here]([https://your-live-demo-link.com](https://techieshorts.netlify.app/)).
 
-## Installation
-To get a local copy up and running follow these simple steps:
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your-username/TechShorts.git
