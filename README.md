@@ -22,5 +22,5 @@ As an avid user of Inshorts, I noticed the absence of a web app version for lapt
 | ![Screenshot 1](https://shubhsonidev.github.io/portfolio/assets/img/portfolio/tech.png) |
 
 ## Live Demo
-Check out the live demo of TechShorts [here]([https://your-live-demo-link.com](https://techieshorts.netlify.app/)).
+Check out the live demo of TechShorts [here](https://techieshorts.netlify.app/).
 
